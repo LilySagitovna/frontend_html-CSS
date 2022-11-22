@@ -1,0 +1,23 @@
+
+-- create
+CREATE TABLE STUDENTS (
+  id INTEGER PRIMARY KEY AUTO_INCREMENT,
+  name TEXT NOT NULL,
+  age INTEGER NOT NULL,
+  adress TEXT NOT NULL
+);
+
+-- insert
+INSERT INTO STUDENTS VALUES (0, 'Clark', 18, 'Москва');
+INSERT INTO STUDENTS VALUES (0, 'Dave', 22, 'Уфа');
+INSERT INTO STUDENTS VALUES (0, 'Ann', 35, 'Санкт-Петербург');
+INSERT INTO STUDENTS VALUES (0, 'Lily', 21, 'Минск');
+INSERT INTO STUDENTS VALUES (0, 'Artur', 6, 'Польша');
+INSERT INTO STUDENTS VALUES (0, 'Nike', 36, 'Казань');
+INSERT INTO STUDENTS VALUES (NULL, 'Ava', 18, 'Новороссийск');
+
+-- fetch 
+SELECT * FROM STUDENTS;
+-- SELECT * FROM STUDENTS WHERE age >= 18;
+-- SELECT id FROM EMPLOYEE WHERE age >= '18';
+-- SELECT id, age FROM EMPLOYEE WHERE name = 'Ann';
