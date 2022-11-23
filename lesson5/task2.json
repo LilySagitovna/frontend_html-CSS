@@ -1,0 +1,32 @@
+{
+    "catalog": [
+        {
+            "title": "Яблоки",
+            "package_weight_gr": 1000,
+            "product_group": "Фрукты",
+            "price_rub": 150,
+            "warehouse_number": 1
+        },
+        {
+            "title": "Картошка ранняя",
+            "package_weight_gr": 5000,
+            "product_group": "Овощи",
+            "price_rub": 320,
+            "warehouse_number": 2
+        },
+        {
+            "title": "Бананы",
+            "package_weight_gr": 1000,
+            "product_group": "Фрукты",
+            "price_rub": 99,
+            "warehouse_number": 1
+        },
+        {
+            "title": "Баунти мини",
+            "package_weight_gr": 100,
+            "product_group": "Кондитерские изделия",
+            "price_rub": 180,
+            "warehouse_number": 3
+        }
+    ]
+}

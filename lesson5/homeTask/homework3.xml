@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <style>
+        <genre>Комедия
+            <film>
+                <filmtitle>Всегда говори "Да"</filmtitle>
+                <age>2008</age>
+                <acter> Режиссер Пейтон Рид, в ролях Джим Керри, Зои Дешанель</acter>
+            </film>
+            <film>
+                <filmtitle>Мы - Миллеры</filmtitle>
+                <age>2013</age>
+                <acter> Режиссер Роусон Маршалл, в ролях ДженниферЭнистон, Джейсон Судейкис</acter>
+            </film>
+        </genre>
+    </style>
+    <style>
+        <genre>Мультфильм
+            <film>
+                <filmtitle>Душа</filmtitle>
+                <age>2020</age>
+                <acter> Режиссер Пит Доктер, в ролях Джейми Фокс, Тина Фей</acter>
+            </film>
+            <film>
+                <filmtitle>Головоломка</filmtitle>
+                <age>2015</age>
+                <acter> Режиссер Пит Доктер, в ролях Эми Полер, Филлис Смит</acter>
+            </film>
+        </genre>
+    </style>
+    <style>
+        <genre>Документальное
+            <film>
+                <filmtitle>Дом. История путешествия</filmtitle>
+                <age>2009</age>
+                <acter> Режиссер Янн Артюс-Бертран, в ролях Изабель Деланнуа, Дени Каро</acter>
+            </film>
+            <film>
+                <filmtitle>Сахар</filmtitle>
+                <age>2014</age>
+                <acter> Режиссер Дэймон Гамо, в ролях Милла Бакаитис, Ричард Дейвис</acter>
+            </film>
+        </genre>
+    </style>    <style>
+        <genre>Фэнтези
+            <film>
+                <filmtitle>Гарри Поттер и философский камень </filmtitle>
+                <age>2001</age>
+                <acter> Режиссер Крис Коламбус, в ролях Дэниэл Рэдклифф, Руперт Гринт </acter>
+            </film>
+            <film>
+                <filmtitle>Пираты Карибского моря: Проклятие Черной жемчужины</filmtitle>
+                <age>2003</age>
+                <acter> Режиссер Гор Вербински, в ролях Джонни Депп, Джеффри Раш</acter>
+            </film>
+        </genre>
+    </style>    <style>
+        <genre>Драма
+            <film>
+                <filmtitle>Побег из Шоушенка</filmtitle>
+                <age>1994</age>
+                <acter> Режиссер Фрэнк Дарабонт, в ролях Тим Роббинс, Морган Фриман</acter>
+            </film>
+            <film>
+                <filmtitle>Великий Гэтсби</filmtitle>
+                <age>2013</age>
+                <acter> Режиссер Баз Лурман, в ролях Леонардо ДиКаприо, Тоби Магуайр</acter>
+            </film>
+        </genre>
+    </style>
+
+</catalog>

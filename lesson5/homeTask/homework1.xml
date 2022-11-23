@@ -1,0 +1,38 @@
+<req>
+    <surname>Иванов</surname>
+    <name>Иван</name>
+    <patronymic>Иванович</patronymic>
+    <birthdate>01.01.1990</birthdate>
+    <birthplace>Москва</birthplace>
+    <phone>8 926 766 48 48</phone>
+</req>
+
+
+
+
+<!-- <req>
+    <surname>Иванов</surname>
+    <name>Иван</name>
+    <patronymic>Иванович</patronymic>
+    <birthdate>01.01.1990</birthdate>
+    <birthplace>Москва</birthplace>
+    <phone>8 926 766 48 48</phone>
+</req -->
+
+<!-- не будет работать, ошибка не хватает > в закрывающем теге req в конце 
+в 8 строчке </req> должно быть -->
+
+
+
+
+
+<!-- {
+    "surname": "Иванов"
+    "name": "Иван"
+    "patronymic": "Иванович"
+    "birthdate": "01.01.1990"
+    "birthplace": "Москва"
+    "phone": "8 926 766 48 48"
+} -->
+
+<!-- в json // не хватало запятых -->

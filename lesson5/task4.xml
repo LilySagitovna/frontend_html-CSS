@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<doRegister>
+		<email>olga@gmail.com</email>
+		<name>Ольга</name>
+		<password>1</password>
+	</doRegister>
+	<doRegister>
+		<email>ivan@gmail.com</email>
+		<name>Иван</name>
+		<password>222</password>
+	</doRegister>
+</catalog>
+
+
+
+<!-- <?xml version="1.0"?>
+<doRegister>
+	<email>olga@gmail.com</email>
+	<name>Ольга</name>
+	<password>1
+</doRegister>
+</password>
+<doRegister>
+	<email>ivan@gmail.com</email>
+	<name>Иван</name>
+	<password>222</password>
+</doRegister> -->

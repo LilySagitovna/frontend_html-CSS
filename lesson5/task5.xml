@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <human>
+        <FIO>Каропова Анна Александровна</FIO>
+        <date_of_birth>2008</date_of_birth>
+        <class>8А</class>
+        <adress>г.Москва, Ленинский просект,д.2,кв. 277</adress>
+    </human>
+    <human>
+        <FIO>Малышкин Михаил Иванович</FIO>
+        <date_of_birth>2014</date_of_birth>
+        <class>2Б</class>
+        <adress>г.Москва, Ленинградское шоссе,д.10,кв. 56</adress>
+    </human>
+    <human>
+        <FIO>Андреева Алла Петровна</FIO>
+        <date_of_birth>2015</date_of_birth>
+        <class>1Г</class>
+        <adress>г.Москва, Дмитровское шоссе,д.107,кв. 2</adress>
+    </human>
+
+</catalog>
+
+
+<!-- <School>
+    <Student>
+    <Name>
+    <FistName>Карпова</FistName>
+    <Patronymic>Анна</Patronymic>
+    <LastName>Александровна</LastName>
+    </Name>
+    <Birthdate>2008</Birthdate>
+    <ClassNo>8А</ClassNo>
+    <Address>
+    <City>Москва</City>
+    <Street>Ленинский проспект</Street>
+    <House>2</House>
+    <Apartment>277</Apartment>
+    </Address>
+    </Student>
+</School> -->

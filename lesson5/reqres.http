@@ -1,0 +1,5 @@
+# GET https://nalog.ru/
+# GET https://nalog.ru/?1  доступ к первоначальной странице без кешировария, код 403 доступ закрыт
+
+# POST https://yandex.ru/search/
+POST https://yandex.ru/search/?text=котики&lr=102530&clid=2353471-306&win=518&search_source=yaru_desktop_common&src=suggest_B
